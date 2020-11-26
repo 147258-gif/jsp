@@ -8,6 +8,6 @@
 </head>
 <body>
   <%
-    System.out.println("uu");
+    System.out.println("uu"); %>
 </body>
 </html>
